@@ -55,6 +55,8 @@
 
 <img align="left" alt="Gurupratap's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gurupratap-matharu&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurupratap-matharu)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://linkedin.com/in/gurupratap-matharu
 [website]: https://gurupratapmatharu.com
 [medium]: https://medium.com/@gurupratap.matharu
