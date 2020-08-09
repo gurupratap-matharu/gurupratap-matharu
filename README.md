@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Probability for Machine Learning](https://medium.com/@gurupratap.matharu/probability-for-machine-learning-424a0a4e8ab4?source=rss-1da1194c8900------2)
+- [Data Leakage in Machine Learning](https://medium.com/@gurupratap.matharu/data-leakage-in-machine-learning-390d560f0969?source=rss-1da1194c8900------2)
+- [Cross Validation in Machine Learning](https://medium.com/@gurupratap.matharu/cross-validation-in-machine-learning-96c9cceac685?source=rss-1da1194c8900------2)
+- [Docker for people in a hurry!](https://medium.com/@gurupratap.matharu/docker-for-people-in-a-hurry-5d6017e18b4f?source=rss-1da1194c8900------2)
+- [What is data mining?](https://medium.com/@gurupratap.matharu/what-is-data-mining-6f90c43b3e68?source=rss-1da1194c8900------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
