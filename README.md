@@ -1,6 +1,6 @@
 # Gurupratap Matharu
 
-> Sometimes a Data Scientist, sometimes a fullstack enginner, sometimes wiring up ci/cd and sometimes writing simple HTML. So who am I?
+> Sometimes a Data Scientist, sometimes a fullstack engineer, sometimes wiring up ci/cd and sometimes writing simple HTML. So who am I?
 
 #### I'm a life long student and a curious learner
 
