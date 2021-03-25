@@ -7,7 +7,7 @@
 - 🔭 Currently studying Astronomy and Astrophysics
 - 🌱 At the moment building a full stack application!
 - 👯 I’m always looking to collaborate with other developers, scientists and coders
-- 🥅 2020 Goals: Develop usable applications with AI and contribute to Open Source projects
+- 🥅 2021 Goals: Develop usable applications with AI and contribute to Open Source projects
 - ⚡  Fun fact: I love to dance the Argentine Tango
 
 #### Connect with me
