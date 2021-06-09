@@ -50,8 +50,6 @@
 
 ---
 
-<img align="left" alt="Gurupratap's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gurupratap-matharu&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurupratap-matharu)](https://gurupratap-matharu.github.io/)
 
 [linkedin]: https://linkedin.com/in/gurupratap-matharu
