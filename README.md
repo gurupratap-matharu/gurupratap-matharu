@@ -42,13 +42,11 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [Probability for Machine Learning](https://medium.com/@gurupratap.matharu/probability-for-machine-learning-424a0a4e8ab4?source=rss-1da1194c8900------2)
 - [Data Leakage in Machine Learning](https://medium.com/@gurupratap.matharu/data-leakage-in-machine-learning-390d560f0969?source=rss-1da1194c8900------2)
 - [Cross Validation in Machine Learning](https://medium.com/@gurupratap.matharu/cross-validation-in-machine-learning-96c9cceac685?source=rss-1da1194c8900------2)
 - [Docker for people in a hurry!](https://medium.com/@gurupratap.matharu/docker-for-people-in-a-hurry-5d6017e18b4f?source=rss-1da1194c8900------2)
 - [What is data mining?](https://medium.com/@gurupratap.matharu/what-is-data-mining-6f90c43b3e68?source=rss-1da1194c8900------2)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
